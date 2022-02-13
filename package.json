@@ -29,7 +29,7 @@
     }
   },
   "dependencies": {
-    "ajv": "6.12.2",
+    "ajv": "6.12.3",
     "apidoc": "^0.26.0",
     "dompurify": "^2.2.8",
     "express": "4.*",
